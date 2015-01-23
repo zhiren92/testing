@@ -17,6 +17,4 @@ RSpec.describe Book, :type => :model do
   end 
 
 
-  it "should have an integer as page number"
-
 end
